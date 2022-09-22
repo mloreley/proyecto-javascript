@@ -1,0 +1,3 @@
+// Escriban una funcion que acepte un numero y les diga si es un numero primo o no
+// un numero primo, es un numero que se divide solo por si mismo y por 1
+// 1 - no es primo 
