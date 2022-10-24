@@ -1,0 +1,16 @@
+JSON requiere usar comillas dobles para las cadenas y los nombres de propiedades. Las comillas simples no son válidas.
+
+https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON
+
+---------------
+Docu de JSON.parse 🤓
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+
+--------------------------
+
+https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify

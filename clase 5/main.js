@@ -24,24 +24,32 @@ class Producto {
         this.nombre = nombre;
         this.categoria = categoria;
         this.precio = precio;
-        this.stock = stock;                
+        this.stock = stock;
+        this.descuento = 10;
+        this.precioDesc = precio;              
     } // los metodos se definen afuera del constructor
     descontar = () => { // aca debo descontar el 10% si el precio es mayor a 1000
-        this.puntos += puntosNuevos;
+        if (this.precio > 1000){
+            this.precioDesc = this.precio - (this.precio * this.descuento) / 100;
+        }
+        //this.puntos += puntosNuevos;
     };
     comprar = (cantidad) =>{
         if (this.stock >= cantidad){
             this.stock -= cantidad;
+            this.descontar();
             console.log(this);
+            console.log(`Ha comprado ${cantidad} ${this.categoria} a ${this.precioDesc}`);
         }
         else{
             console.log(this);
+            console.log(`No hay suficiente stock`)
         }
     }
 }
 
-const televisor = new Producto("Phillips", "led", 5000, 10);
-const parlantes = new Producto("Owen", "portatil", 800, 5);
+const televisor = new Producto("Phillips", "televisor", 5000, 10);
+const parlantes = new Producto("Owen", "parlantes", 800, 5);
 
 /*const crearMascota = ()=> {
     let nombreMascota = prompt("Como se llama la mascota?");
@@ -61,4 +69,4 @@ daisy.agregarPuntos(3);
 darwin.agregarPuntos(15);
 */
 televisor.comprar(1);
-televisor.comprar(4);
+televisor.comprar(4); 

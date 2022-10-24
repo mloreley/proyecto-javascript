@@ -1,6 +1,0 @@
-/*
-1 - crear una clase con un constructor de productos, que acepte: nombre, categoria, precio y stock
-2 - crear un metodo que aplique el 10% de descuento si el precio es mayor a 1000
-3 - crear un metodo que se llame comprar y que acepte como parametro la cantidad
-este metodo va a revisar si hay suficiente stock para comprar y si lo hay modifica modifica el stock.
-*/

@@ -1,0 +1,560 @@
+00:59:01	[Tutor]David Resca:	Buenas nochees!
+01:02:06	Agustin Nazer:	buenas!
+01:04:15	Cordoba Alejandra Daniela:	buenooos días AMERICAA
+01:04:19	Luis Visintini:	RH 😍
+01:04:26	Gaston Guzman:	Buenas noches
+01:04:34	Luis Visintini:	jajajaa
+01:04:36	Cordoba Alejandra Daniela:	xd
+01:05:44	Julian Finelli:	Buenas noches
+01:06:05	Daniel allosa:	buenas noches
+01:06:07	Valentino Chiappini:	buenas noches
+01:06:22	[Tutor] Mauricio Fernandez:	Buenas noches! 😎
+01:06:27	Iván Fuentes Araya:	bueenas
+01:06:58	Paola Cabello:	Buenas noches
+01:07:04	Valentino Alonso Novillo:	Buenass
+01:07:13	Candela Salvatto:	hola hola
+01:07:17	Carlos Herrera:	Buenas!!!
+01:07:22	David Castaño:	buenas!
+01:07:28	Jonatan Esteve:	buenas
+01:07:28	Gustavo Agazzoni:	buenas!
+01:08:15	Sebastian Zaccarias:	Buenaaas!
+01:08:18	Joel Miceli:	Buenas noches a todos!
+01:08:18	Florian Marti:	la ultima no la saque
+01:08:26	Florian Marti:	las 3 primeras si
+01:08:29	Micaela Contreraz:	Buenas noches!!
+01:08:33	Agustin Nazer:	la ultima yo tampoco pude hacerla
+01:08:46	Iván Fuentes Araya:	yo la hice sin math :/
+01:09:00	Jairo Mazquearan:	hola a todos
+01:09:25	Nanci Mondragón Cruz:	Gracias
+01:09:38	[Tutor] Mauricio Fernandez:	llego el dia
+01:09:47	Valentino Chiappini:	🥳🥳🥳
+01:09:52	Nanci Mondragón Cruz:	🥳
+01:10:36	Joel Miceli:	Hoy se abre la 2da entrega del proyecto?
+01:10:49	Antonella Ortiz:	buenas!
+01:11:00	[Tutor] Mauricio Fernandez:	no no todavía no Joel
+01:11:15	[Tutor] Mauricio Fernandez:	ah si? uh cambio
+01:11:16	[Tutor] Mauricio Fernandez:	jaja
+01:11:21	[Tutor] Mauricio Fernandez:	dañe
+01:11:25	Jairo Mazquearan:	hagámosle caso a Mauricio jajaja
+01:11:36	Gaston Guzman:	me ilusione mau
+01:11:47	[Tutor] Mauricio Fernandez:	no no chicos jaja estoy acostumbrado al otro programa sorry 😅
+01:11:59	Héctor Chaparro:	buenas noches
+01:12:02	Jairo Mazquearan:	😢
+01:12:50	Florian Marti:	plantilla de texto?a lo mejor lo conozco con otro nombre
+01:12:59	Florian Marti:	aaah
+01:13:05	Florian Marti:	spik in inglish please
+01:13:40	Luis Visintini:	Y todavia no me sale un if
+01:13:41	Luis Visintini:	jajaja
+01:13:45	Walter Martínez:	ho que rapido esta pasando
+01:13:51	[Tutor] Mauricio Fernandez:	volando pasa
+01:14:43	diego sepulveda mendoza:	yo noo
+01:16:36	Florian Marti:	seria como el SASS del Css?
+01:16:36	Luis Visintini:	crear html desde JS
+01:17:13	Agustin Baldovino:	Buenas noches
+01:17:41	Mathi Sanchez:	básicamente <div> <p> </p> </div>el div es el padre y el hijo p no?
+01:18:29	[Tutor] Mauricio Fernandez:	buenas noches a lops que van llegando
+01:20:32	Nanci Mondragón Cruz:	maso
+01:20:48	Maria Lorena Correa:	serian cada uno de los elementos del HTML pero instanciados con los datos que corresponda?
+01:22:19	Luis Visintini:	esta fixeado seguro
+01:29:24	diego sepulveda mendoza:	después va a explicar que significa cada etiqueta?
+01:29:40	[Tutor] Mauricio Fernandez:	mm eso lo ven en desarrollo web Diego
+01:29:42	[Tutor]David Resca:	cada etiqueta HTML?
+01:29:43	Carmela Ojea Sipowicz:	En desarrollo web nos decían que usemos class en general porque los id los íbamos a usar mas en JavaScript
+01:29:46	Luis Visintini:	eso es html diego
+01:29:53	[Tutor]David Resca:	les paso una web pero aquí no vemos esto
+01:30:03	Gustavo Agazzoni:	lorem
+01:30:07	[Tutor] Mauricio Fernandez:	Car, claro aca van a usar ambas cosas clases y también id
+01:30:08	diego sepulveda mendoza:	yo entre directamente a java, no pase por desarrollo
+01:30:20	[Tutor]David Resca:	https://htmldog.com/references/html/tags/
+01:30:22	Carmela Ojea Sipowicz:	Y justo veo que estas usando mas id
+01:30:55	Carmela Ojea Sipowicz:	Ah genial
+01:31:01	diego sepulveda mendoza:	tome el curso de backend y no tenia el curso de desarrollo web
+01:31:18	diego sepulveda mendoza:	pero bue, lo busco en google
+01:31:40	[Tutor] Mauricio Fernandez:	claro, para tener desarrollo web y también backend seria un curso de full stack
+01:31:45	[Tutor]David Resca:	Es que no es contenido de este curso, necesitaríamos 2 clases para explicar html
+01:32:28	[Tutor]David Resca:	En la página que pasé tienen info sobre las etiquetas HTML https://htmldog.com/references/html/tags/
+01:32:31	[Tutor] Mauricio Fernandez:	tranca igual Diego , eso lo podes buscar en YouTube algún cursito y con eso re estas
+01:33:11	Alexander Sosa:	Si quiero acceder al valor de una etiqueta ?
+01:33:20	diego sepulveda mendoza:	gracias!
+01:33:25	[Tutor]David Resca:	Ya lo vamos a ver Alex
+01:33:36	Alexander Sosa:	okok
+01:33:46	[Tutor]David Resca:	Recuerden que vemos las bases y luego desarrollamos
+01:34:05	Carlos Fernando Pintor:	nono
+01:34:05	Felipe Fava Souza:	si
+01:34:09	Iván Fuentes Araya:	no
+01:34:11	Felipe Fava Souza:	no usamos mucho
+01:34:16	Iván Fuentes Araya:	}lo googleamos luego
+01:34:35	Felipe Fava Souza:	bootstrap trae atributos aria
+01:34:48	Sebastian Dri:	consulta, todos esos "objetos" son del body del html de la profe?
+01:35:03	[Tutor] Mauricio Fernandez:	claro Sebas
+01:36:57	Felipe Fava Souza:	Porque aparecen los elementos antes que lo usemos?
+01:37:03	Felipe Fava Souza:	con valor null
+01:37:14	Felipe Fava Souza:	si
+01:37:18	Felipe Fava Souza:	pero los eventos y eso
+01:37:26	[Tutor] Mauricio Fernandez:	por que son objetos
+01:37:33	[Tutor] Mauricio Fernandez:	tienen las props vacias
+01:37:38	Felipe Fava Souza:	ah ok
+01:37:49	Felipe Fava Souza:	se entiende
+01:39:08	Carmela Ojea Sipowicz:	Ahhh
+01:39:25	[Tutor] Mauricio Fernandez:	(presente pasado 🙂)
+01:39:37	Kevin Schwaner Moreno:	futuro
+01:39:55	Luis Visintini:	jajaj
+01:40:17	Luis Visintini:	si
+01:40:24	Carlos Herrera:	si
+01:40:41	Luis Visintini:	ahi esta Carme
+01:40:46	Luis Visintini:	id
+01:40:47	Luis Visintini:	son unicos
+01:40:49	Felipe Fava Souza:	id es mas especifico
+01:40:50	Lautaro Julian Iglesias:	el id no se repite
+01:40:51	Julian Finelli:	la jerarquia
+01:40:51	Carlos Herrera:	.
+01:40:51	Iván Fuentes Araya:	id > clase
+01:40:51	Carmela Ojea Sipowicz:	Siiii
+01:40:58	Luis Visintini:	1 solo por documento
+01:40:58	William Romero:	id único
+01:41:32	Carmela Ojea Sipowicz:	Ah usamos el id para marcar las etiquetas donde tenemos que darle interactividad de manera específica
+01:41:40	[Tutor] Mauricio Fernandez:	claro
+01:41:50	[Tutor] Mauricio Fernandez:	para identificar elementos unicos
+01:42:28	Carlos Herrera:	arreglo
+01:42:35	[Tutor]David Resca:	NodeList
+01:42:35	Nanci Mondragón Cruz:	varios
+01:42:37	Luis Visintini:	el #
+01:42:37	Maria Lorena Correa:	devuelve  varios elementos
+01:42:41	Juan Pacheco:	porque agarra todas las clases de un div
+01:42:42	Roberto Barrionuevo:	uno se puede repetir vaarias veces, otro no
+01:42:45	William Romero:	nos puede arrojar varios y el id uno sólo
+01:42:47	Juan José Pais:	en clases podes llamar a varios objetos
+01:42:52	Roberto Barrionuevo:	muchas class pocos id
+01:42:58	Iván Fuentes Araya:	jajaj
+01:43:01	José Quintana:	podes tener varios elementos con la misma clase
+01:43:08	José Quintana:	además de varias clases
+01:43:45	José Quintana:	que diferencia hay entre collection y array?
+01:43:58	José Quintana:	porque no tienen los mismo metodos
+01:44:11	[Tutor] Mauricio Fernandez:	el collection es un array
+01:44:12	[Tutor] Mauricio Fernandez:	claro
+01:44:13	José Quintana:	o si?
+01:44:23	Florian Marti:	y como los modifico individualmente a esos parrafos … o se modifican todos juntos?
+01:44:35	Florian Marti:	aaah ok ok
+01:44:37	Damian Oliari:	No me queda clara la utilidad de esto
+01:44:54	[Tutor] Mauricio Fernandez:	jajajajja estamos viendo como funciona el DOm
+01:45:00	[Tutor] Mauricio Fernandez:	ya van a ver para que
+01:45:23	Florian Marti:	aaah con el index
+01:45:27	[Tutor]David Resca:	https://www.youtube.com/watch?v=O88VX8WZY2E
+01:45:44	Gaston Guzman:	jajaja
+01:45:57	Iván Fuentes Araya:	jajajajjaja
+01:45:57	Alexander Sosa:	sin queerer lo abri xd
+01:46:01	Gaston Guzman:	yo pensando que era un link útil xD
+01:46:04	Iván Fuentes Araya:	entre como piña
+01:46:10	[Tutor]David Resca:	Lo es.
+01:46:13	Eugenia Salinas:	jjajaja rt
+01:46:18	[Tutor]David Resca:	Nada de lo que compartamos aquí es inutil
+01:47:11	Luis Visintini:	un etiqueta img tmb la trae como array?
+01:47:36	[Tutor] Mauricio Fernandez:	si , si pedis todas las img si
+01:47:42	[Tutor] Mauricio Fernandez:	aunque sea una
+01:47:43	Luis Visintini:	oki
+01:48:15	José Quintana:	casi
+01:48:24	José Quintana:	forEach no puedo en forma directa
+01:49:35	Alexander Sosa:	🔥
+01:50:06	Alexander Sosa:	si
+01:50:13	José Quintana:	[...parrafos].forEach()
+01:50:15	Nicolas Brusco:	me da undefined por que?
+01:50:28	Nicolas Brusco:	el ultimo for*
+01:50:39	Gustavo Agazzoni:	a mi igual
+01:50:42	Nicolas Brusco:	si exacto, tengo toda la gramatica igual creo
+01:50:49	[Tutor] Mauricio Fernandez:	el HTML?
+01:50:54	[Tutor] Mauricio Fernandez:	lo tienen igual?
+01:50:58	Nicolas Brusco:	ah ya lo resolví, era un error gramatical.
+01:51:02	Nicolas Brusco:	disculpas
+01:51:05	[Tutor] Mauricio Fernandez:	nt
+01:51:06	[Tutor] Mauricio Fernandez:	jaja
+01:51:15	Agustin Nazer:	la s de parrafos?
+01:51:21	Agustin Nazer:	a mi me daba igual xD
+01:52:13	Luis Visintini:	querySelector 🙏🏻
+01:52:44	[Tutor] Mauricio Fernandez:	👆
+01:54:09	Carmela Ojea Sipowicz:	Ah me gusta
+01:54:23	[Tutor] Mauricio Fernandez:	se usa el querySelectot hoy en dia
+01:54:32	[Tutor] Mauricio Fernandez:	es mas nuevo que getElement
+01:54:49	Gaston Guzman:	es el mas utilizado/ recomendado?
+01:55:13	Carmela Ojea Sipowicz:	Podes traer lo que necesites de cualquier forma
+01:55:15	[Tutor] Mauricio Fernandez:	asi es
+01:55:38	Luis Visintini:	es un todoEnUno query
+01:55:47	Carmela Ojea Sipowicz:	Clarooo real !
+01:55:56	José Quintana:	con querySelectorAll podes usar el forEach directo
+01:56:03	Felipe Fava Souza:	:nth
+01:56:04	Felipe Fava Souza:	?
+01:56:14	Felipe Fava Souza:	re bueno
+01:56:41	[Tutor] Mauricio Fernandez:	es genial
+01:56:52	José Quintana:	mal
+01:56:56	Felipe Fava Souza:	no
+01:57:00	Gaston Guzman:	ta bueno
+01:57:02	Florian Marti:	va bien
+01:57:32	Felipe Fava Souza:	generalmente se seleciona y se guarda en una variable para luego usarlo cierto?
+01:57:41	[Tutor]David Resca:	Así es!
+01:57:48	Felipe Fava Souza:	👌🏽
+01:57:51	Gaston Guzman:	eso
+01:58:01	Gaston Guzman:	tenia esa duda jaj
+01:58:06	Felipe Fava Souza:	#teamQuerySelector
+01:59:24	Valentino Chiappini:	cuando me digan que no comente mi codigo voy a decir que estaba ahorrando recursos
+01:59:37	Felipe Fava Souza:	jajajaa
+01:59:52	Alexander Sosa:	jajajaajajja
+02:01:30	Nadia Santiago:	generalmente se utiliza el mismo método para acceder en todo el proyecto?
+02:02:53	[Tutor] Mauricio Fernandez:	ahora si chicos!
+02:04:08	Luis Visintini:	si
+02:04:09	Alexander Sosa:	si
+02:04:12	Agustin Nazer:	genial
+02:04:19	Walter Martínez:	buenisimo
+02:04:21	diego sepulveda mendoza:	por que no cambiarlo directamente del HTML?
+02:04:39	Juan José Pais:	por qué querrías hacer eso?
+02:04:46	[Tutor] Mauricio Fernandez:	esto le da dinamismo al sitio
+02:05:16	[Tutor] Mauricio Fernandez:	imagínense un saludo personalizado a un usuario
+02:05:33	[Tutor] Mauricio Fernandez:	lo harian por js, para ponerle un nombre diferente dependiendo del usuario
+02:06:01	diego sepulveda mendoza:	gracias mauri
+02:06:05	Carmela Ojea Sipowicz:	Eso tambien es porque muchas personas trabajan sobre el mismo proyecto?
+02:06:28	[Tutor] Mauricio Fernandez:	mmm no necesariamente Car, es mas que nada por el dinamismo 😊
+02:06:35	Carmela Ojea Sipowicz:	Oki
+02:06:44	Florian Marti:	ya no se va a usar css
+02:06:48	Lautaro Julian Iglesias:	esto reemplaza el css?
+02:06:53	[Tutor]David Resca:	No
+02:06:54	[Tutor] Mauricio Fernandez:	no no , el css sigue
+02:06:58	[Tutor]David Resca:	jajaj
+02:07:23	Nanci Mondragón Cruz:	sirve en los formularios
+02:07:33	Agustin Nazer:	le argega dinamismo al css
+02:07:35	[Tutor] Mauricio Fernandez:	totalmente
+02:07:43	Roberto Barrionuevo:	mas practico
+02:07:49	Florian Marti:	chau css
+02:07:57	[Tutor]David Resca:	Acá deben tener en cuenta que lo que se hace con CSS se sigue haciendo con CSS, con JavaScript van a hacer otras cosas
+02:07:57	[Tutor] Mauricio Fernandez:	nooo como que chau css jajjaja
+02:08:04	Agustin Nazer:	no lo reemplaza
+02:08:08	Carlos Fernando Pintor:	Claro nada que ver con lo que vimos en desarrollo web
+02:08:23	Carmela Ojea Sipowicz:	Ahhh como que un aprobado salga en verde y el desaprobado en rojo? y depende de cada usuario
+02:08:24	Gaston Guzman:	la lo descartaba jaja
+02:08:30	Gaston Guzman:	ya
+02:08:34	Roberto Barrionuevo:	chau html
+02:08:34	[Tutor] Mauricio Fernandez:	claro Car
+02:08:37	Roberto Barrionuevo:	no mentira jaja
+02:08:41	[Tutor] Mauricio Fernandez:	eso puede ser Robert jajajajja
+02:08:52	Roberto Barrionuevo:	y claro jaja
+02:08:55	[Tutor]David Resca:	Claro, declaran clases y con JavaScript las asignan de acuerdo con lo que corresponda según la interacción del usuario por ej.
+02:08:57	Nicolas Brusco:	eso interfiere con el CSS?
+02:09:21	[Tutor]David Resca:	en qué sentido Nico?
+02:09:39	Nicolas Brusco:	si ya tengo una clase escrita en el css
+02:09:54	[Tutor] Mauricio Fernandez:	por eso mejor usen full clases de css
+02:09:55	José Quintana:	le da prioridad al js
+02:09:59	Agustin Nazer:	osea q cuando hacemos el css tenemos q pensar bien las clases y los id´s
+02:10:05	[Tutor] Mauricio Fernandez:	y en caso de que quieran poner algo en rojo , le agregan la clase
+02:10:16	Agustin Nazer:	el HTML perdon
+02:10:30	[Tutor]David Resca:	Tienen que pensar la arquitectura del proyecto.
+02:10:34	[Tutor]David Resca:	claro Agustín
+02:10:37	[Tutor] Mauricio Fernandez:	si , total Agus
+02:10:38	Valentino Chiappini:	una pregunta como le cambiarias el color al link del titulo?
+02:10:53	[Tutor] Mauricio Fernandez:	igual lo de los ids y las clases de HTML también puede ser dinamico ;)
+02:12:06	Miguel Perez Fernandez:	si
+02:12:08	Carmela Ojea Sipowicz:	sip
+02:12:20	Luis Visintini:	profe vi en un curso que si usamos innerText y por ejemplo una clase tiene un visibility: hidden no lo muestra y el  textContent si puede ser? o text content no lo vemos y no se usa
+02:12:21	Gaston Guzman:	35
+02:12:28	carlos montiel:	si hay varios div, como se identifica
+02:12:29	carlos montiel:	??
+02:12:30	David Castaño:	puedes poner el visual porfa
+02:13:39	Gaston Guzman:	https://www.youtube.com/watch?v=XqFR2lqBYPs&t=8s
+02:13:52	Gaston Guzman:	intro a HTML y css para el que lo necesite
+02:13:55	[Tutor] Mauricio Fernandez:	Luis
+02:13:57	[Tutor] Mauricio Fernandez:	https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+02:14:14	[Tutor] Mauricio Fernandez:	ahí esta la diferencia entre textContent e innerText
+02:14:40	Luis Visintini:	gracias Mau!!!
+02:17:40	Luis Visintini:	clarisimo mauri
+02:17:41	[Tutor] Mauricio Fernandez:	ready
+02:17:44	Luis Visintini:	ahi lo vi
+02:17:52	[Tutor] Mauricio Fernandez:	viste, esta bien explicado ahi
+02:17:57	Luis Visintini:	si genial
+02:19:04	[Tutor] Mauricio Fernandez:	todo lo que saben de HTML y css , lo pueden acceder desde js y modificarlo chicos 😎
+02:20:36	Luis Visintini:	createElement
+02:21:38	Valentino Chiappini:	se puede hacer que el usuario modifique el contenido de la pagina con esto?
+02:21:56	[Tutor]David Resca:	Si Valentino
+02:23:05	Juan Pacheco:	Como sería por ejemplo que nuestro HTML tenga por ejemplo: <main> <div> </main>, etc, se usa con clases, no?
+02:23:36	[Tutor]David Resca:	No entendí Juan.
+02:23:45	Luis Visintini:	excelente
+02:24:12	Juan Pacheco:	Por ejemplo, body: header, main, footer,, como se le asigna para modificar etiquetas dentro de esas?
+02:24:24	Juan José Pais:	ahí podría ir un innerText también?
+02:24:42	[Tutor] Mauricio Fernandez:	si son etiquetas únicas , podes agarrarlas directamente en js
+02:24:44	[Tutor] Mauricio Fernandez:	y modificarlas
+02:24:48	[Tutor] Mauricio Fernandez:	ya que son unicas
+02:25:15	Juan Pacheco:	se rompería si agarro por ejemplo el header completo teniendo etiquetas dentro del mismo header?
+02:25:56	[Tutor] Mauricio Fernandez:	nop , no pasa nada si lo agarras … después hay que ver que haces con eso
+02:26:04	[Tutor] Mauricio Fernandez:	pero no debería
+02:26:08	Juan Pacheco:	vale vale, gracias
+02:26:30	Alexander Sosa:	🔥
+02:26:36	Luis Visintini:	yes
+02:26:38	Alexander Sosa:	si
+02:27:06	[Tutor] Mauricio Fernandez:	document.querySelector(header);
+02:27:12	[Tutor] Mauricio Fernandez:	por ejemplo Juan *
+02:27:25	[Tutor] Mauricio Fernandez:	ahí te traes la etiqueta header
+02:28:04	Carmela Ojea Sipowicz:	siii
+02:28:29	Juan Pacheco:	gracias mauri
+02:29:14	[Tutor]David Resca:	Básicamente y según lo visto hasta ahora pueden almacenar en variables referencias a los elementos del DOM a través de querySelector o getElement(s)By, y a partir de ahí modificar, agregar o remover estos elementos, pueden llamar a un padre ('contenedor') y agregarle elementos adentro. Es importante entender que  no sólo pueden modificar valores, sino también agregar elementos.
+02:29:40	Luis Visintini:	no nos olvidemos de pepito
+02:30:36	Alexander Sosa:	genial
+02:31:47	Alexander Sosa:	buenassoo
+02:31:51	Nicolas Brusco:	Puede que el boton refresque la página?
+02:31:57	Luis Visintini:	osea que el input tiene que tener si o si el value
+02:32:00	Luis Visintini:	como atributo
+02:32:00	[Tutor] Mauricio Fernandez:	si es submit si
+02:32:28	Luis Visintini:	ok
+02:32:33	Iván Fuentes Araya:	atr
+02:32:56	Luis Visintini:	vamoooo
+02:33:00	Luis Visintini:	ahora si
+02:33:20	Carmela Ojea Sipowicz:	casi
+02:33:45	[Tutor] Mauricio Fernandez:	almost
+02:34:58	Luis Visintini:	si
+02:35:02	Florian Marti:	this
+02:35:04	Iván Fuentes Araya:	si me acuerdo jaja
+02:35:12	[Tutor] Mauricio Fernandez:	volvió
+02:35:14	Gaston Guzman:	si esta hablando en chino(?
+02:35:16	[Tutor] Mauricio Fernandez:	en forma de ejercicio
+02:35:29	Walter Martínez:	yendo ja
+02:35:55	Alexander Sosa:	nuevo objeto
+02:36:01	Luis Visintini:	instanciamos?
+02:36:36	Luis Visintini:	🙏🏻
+02:36:47	diego sepulveda mendoza:	que era lo que hacia la flechita?
+02:36:51	Alexander Sosa:	adios prompt para los desafios
+02:36:59	Celeste Lopez:	value
+02:36:59	Florian Marti:	value
+02:37:00	Iván Fuentes Araya:	.getvalue
+02:37:03	Iván Fuentes Araya:	eso
+02:37:04	diego sepulveda mendoza:	value
+02:37:05	Nanci Mondragón Cruz:	.value
+02:37:16	Julian Finelli:	faltó ParseInt
+02:37:17	Julian Finelli:	na mentira
+02:37:31	Nicolas Brusco:	new objeto
+02:37:45	diego sepulveda mendoza:	jaja}
+02:37:48	Luis Visintini:	new
+02:37:49	Julian Finelli:	a lo dije jodiendo porque se ponía en prompt jaja
+02:37:53	Gaston Guzman:	jajaj lo dijo en joda
+02:38:32	Nicolas Brusco:	el return (?
+02:38:34	Iván Fuentes Araya:	push
+02:38:35	Iván Fuentes Araya:	?
+02:38:55	Florian Marti:	entre los 247 hacemos uno vamooooo
+02:39:00	Iván Fuentes Araya:	vamo florian
+02:39:09	Nicolas Brusco:	JJAJAJAJAJAJ
+02:39:16	Julian Finelli:	131 jajaj
+02:39:17	Alexander Sosa:	jajaajjaaj vamos bien
+02:39:20	Florian Marti:	pongamos una pyme banda
+02:39:59	Roberto Barrionuevo:	yo entiendo todo pero no los quiero opacar chicos
+02:40:02	Roberto Barrionuevo:	jaja no mentira
+02:40:10	Roberto Barrionuevo:	necesito una brujula
+02:40:24	[Tutor] Mauricio Fernandez:	😂
+02:40:28	Candela Salvatto:	jaajajjaja lpm yo igual
+02:40:32	[Tutor]David Resca:	jajajaj
+02:40:36	[Tutor] Mauricio Fernandez:	go gps jaja
+02:40:37	Carmela Ojea Sipowicz:	RE VAAA
+02:40:41	Florian Marti:	seeeeee pff
+02:40:43	Carmela Ojea Sipowicz:	Si
+02:40:48	Alexander Sosa:	si
+02:40:50	Maria Lorena Correa:	sii
+02:40:52	Luis Visintini:	acabo de ver el array pasar por el frente de casa
+02:40:54	Nicolas Brusco:	a veces me aparece cualqueir valor y tengo que ir refrescando la pagina
+02:40:57	[Tutor]David Resca:	ya va a salir 🤓
+02:41:03	Walter Martínez:	que el cielo nos ilumine
+02:41:06	Walter Martínez:	jaja
+02:41:09	[Tutor]David Resca:	jajaj
+02:41:11	Candela Salvatto:	necesitamos un milagro
+02:41:17	Lautaro Almada:	que mal la paso con js
+02:41:25	[Tutor]David Resca:	nooooo Lautaro!
+02:41:30	Roberto Barrionuevo:	array.roberto
+02:41:30	Alexander Sosa:	el play
+02:41:31	Lautaro Almada:	jajajaja
+02:41:31	Florian Marti:	copie ese código profe y péguelo en el chat para estudiarlo
+02:41:36	[Tutor] Mauricio Fernandez:	Nico , si … cuando terminas de hacer algo en js f5 de una
+02:41:40	Iván Fuentes Araya:	la verdad HTML y css es una papita comparado con JS
+02:41:59	Gaston Guzman:	idem
+02:42:14	[Tutor]David Resca:	Pasa que: lenguaje de programaciónhttps://www.youtube.com/watch?v=O88VX8WZY2E
+02:43:10	Alexander Sosa:	for of
+02:44:49	Luis Visintini:	a alguien le sobra una bala?
+02:45:07	[Tutor] Mauricio Fernandez:	🧐
+02:45:17	[Tutor] Mauricio Fernandez:	jajaj tranquilidad
+02:45:31	Florian Marti:	aaah joya
+02:45:40	Maria Lorena Correa:	me quiero volver chango!
+02:46:02	Alexander Sosa:	eso Tambien se puede inserter en una table :  th, tr ?
+02:46:10	[Tutor]David Resca:	Sean felices, abandonamos prompts y alerts, y cuando veamos eventos <3
+02:46:12	[Tutor] Mauricio Fernandez:	si Alex , totalmente
+02:46:19	Mathi Sanchez:	creo que me perdi algo, pero estas altabeando los valores para que queda mas entendible no?
+02:46:20	Alexander Sosa:	genial Mauri
+02:46:26	[Tutor] Mauricio Fernandez:	con esto su proyecto puede quedar super 😁
+02:46:28	Nicolas Brusco:	ahora append?
+02:46:28	[Tutor]David Resca:	Si Mathi
+02:46:38	Carmela Ojea Sipowicz:	Tiene 2 $$
+02:46:48	Carmela Ojea Sipowicz:	Ahhh
+02:47:09	Florian Marti:	sarpado esto
+02:47:11	Luis Visintini:	el apendice me va a reventar con esto
+02:47:13	Alexander Sosa:	append
+02:47:37	Walter Martínez:	apendice jajaja
+02:47:42	Florian Marti:	se siente como nacer caminando
+02:47:43	Gaston Guzman:	yo ya no tengo append
+02:47:51	Luis Visintini:	jajaja
+02:47:53	diego sepulveda mendoza:	joya
+02:47:55	Alexander Sosa:	Buenaaa
+02:48:04	Lautaro Almada:	Como le pongo una imagen desde js?
+02:48:06	Alexander Sosa:	una tablita
+02:48:09	Nicolas Brusco:	flexbox y grids desde JS (?)
+02:48:21	Carmela Ojea Sipowicz:	Uf igual mil veces mas dinamico para hacerlo
+02:48:32	Lautaro Almada:	Muchas gracias
+02:48:46	tomas grimaux:	osea que con esto me armo mi oferta de productos en el html?
+02:49:10	[Tutor] Mauricio Fernandez:	podrías Tomi
+02:49:58	Alexander Sosa:	desde una api
+02:50:05	tomas grimaux:	clarooooo
+02:50:18	Claudio Vilas:	como le aplico css?
+02:50:20	Florian Marti:	ahora como que fue una muestra de lo que se puede hacer
+02:50:20	tomas grimaux:	tipo un filtro podes armar
+02:50:23	Alexander Sosa:	🔥
+02:50:36	[Tutor]David Resca:	Igual que antes Claudio
+02:50:42	Carmela Ojea Sipowicz:	La clase de hoy se tendría que llamar Aguante el dinamismo
+02:51:14	[Tutor] Mauricio Fernandez:	les paso un ejemplito , del link que les pase la clase pasada
+02:51:16	[Tutor] Mauricio Fernandez:	https://high-order-functions.vercel.app/methods/foreach.html
+02:51:23	[Tutor] Mauricio Fernandez:	carga dinámica de productos
+02:51:28	Iván Fuentes Araya:	ahh lo agregas en una linea en JS, el estilo estaría en .css no?
+02:51:34	Luis Visintini:	o directamente la clase de BS si lo tenemos linkeado
+02:51:39	[Tutor] Mauricio Fernandez:	claro Ivan
+02:52:04	Iván Fuentes Araya:	buenisimo
+02:52:15	diego sepulveda mendoza:	js tambien lo podes conectar a mysql
+02:52:24	[Tutor] Mauricio Fernandez:	mediante backend Diego
+02:52:28	[Tutor] Mauricio Fernandez:	con Node js
+02:52:38	Florian Marti:	faaaa menos mal que no se acuerda
+02:52:40	Walter Martínez:	esa profeeeee jeje
+02:52:42	Alexander Sosa:	😋
+02:52:44	Julian Finelli:	hace cuanto no maqueta una pag así profe? jaja
+02:53:28	diego sepulveda mendoza:	gracias
+02:53:28	[Tutor]David Resca:	Algunas cositas: https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introductionhttps://developer.mozilla.org/es/docs/Web/API/Element/classListhttps://developer.mozilla.org/es/docs/Web/API/Element/className
+02:53:32	Maria Lorena Correa:	ese id puede venir de la bd o tiene que ser otro?
+02:53:50	Alexander Sosa:	gracias David
+02:54:11	Maria Lorena Correa:	sii
+02:54:13	Carlos Herrera:	si se entiende
+02:58:00	David Castaño:	jum
+02:58:15	Nanci Mondragón Cruz:	🤯
+02:58:18	Lautaro Almada:	Lunes que viene hay clases?
+02:58:21	Maria Lorena Correa:	se entiende aunque debo madurarlo jajjaa
+02:58:38	Alexander Sosa:	ahora a volcar todas las ideas
+02:58:39	Gaston Guzman:	repaso y repaso
+03:00:13	Agustin Nazer:	no usamos mas prompt y alert?
+03:00:27	Joel Miceli:	Esto de Dom no entra para esta entrega no?
+03:00:36	Gaston Guzman:	no joel
+03:00:44	Florian Marti:	no DOM no eh?
+03:00:46	[Tutor] Mauricio Fernandez:	sisi va DOM
+03:00:58	Fabian Gargiulo:	lo que vimos hoy entra?
+03:01:13	Joel Miceli:	Cualca Gaston jaja
+03:01:21	[Tutor] Mauricio Fernandez:	whats
+03:01:21	Nicolas Brusco:	me perdí, con o sin DOM?
+03:01:26	Iván Fuentes Araya:	sin dom dice
+03:01:29	Carmela Ojea Sipowicz:	Sin
+03:01:29	[Tutor] Mauricio Fernandez:	mas raro jaja
+03:01:32	Gaston Guzman:	vieron jajaj
+03:01:39	Lautaro Almada:	no hay ejemplos como para guiarse?
+03:01:39	diego sepulveda mendoza:	este es un poco mas intenso jaja
+03:01:40	[Tutor] Mauricio Fernandez:	i dont understand xd
+03:01:41	Gaston Guzman:	safamos
+03:01:44	Lautaro Almada:	porque mas perdido que nemo estoy
+03:01:49	Mora Tolcachier:	okei
+03:02:11	[Tutor] Mauricio Fernandez:	sorry de nuevo , suele entrar en las entregas hasta lo ultimo visto
+03:02:15	[Tutor] Mauricio Fernandez:	al parecer no en esta
+03:02:22	[Tutor] Mauricio Fernandez:	safan
+03:02:33	Lautaro Almada:	dom entonces no genial
+03:02:40	Walter Martínez:	hoy se valora ?
+03:02:41	Nanci Mondragón Cruz:	mañana hay after ??
+03:02:49	Nanci Mondragón Cruz:	ok
+03:02:49	Gaston Guzman:	el miércoles se valora
+03:02:52	Maria Lorena Correa:	vas a pasar ejercicios de esta clase para practicar? de DOM? asi hacemos alguito
+03:02:53	Alexander Sosa:	okok
+03:02:55	Walter Martínez:	genial,
+03:03:16	Alexander Sosa:	DomOmar
+03:03:16	Walter Martínez:	queria ejercicio, con el desafio estamos ja
+03:03:24	[Tutor]David Resca:	😂
+03:03:26	Gaston Guzman:	pasa el zip de lo de hoy profe pòr favor
+03:03:29	Juan José Pais:	gracias Alexander
+03:03:31	Joel Miceli:	Se podría hacer un juego simple como proyecto también?
+03:03:36	Maria Lorena Correa:	cual desafio? la entrega?
+03:03:46	Walter Martínez:	dan particular los tutores? precio de hora jaaja
+03:03:58	Gaston Guzman:	jajaj ídem walter
+03:04:00	diego sepulveda mendoza:	estas pre - entregas, cuentan para aprobar el curso?
+03:04:01	Maria Lorena Correa:	ahh genial, pensé que tenia que hacer 2 cosas
+03:04:03	Iván Fuentes Araya:	jajajja
+03:04:04	[Tutor]David Resca:	🥸
+03:04:05	[Tutor] Mauricio Fernandez:	podríamos
+03:04:06	[Tutor] Mauricio Fernandez:	jajajaja
+03:04:11	[Tutor]David Resca:	200usd la clase
+03:04:11	Walter Martínez:	esooo
+03:04:16	José Imhoff:	se puede usar objetos sin nombre como el array de listaproductos para la entrega?
+03:04:17	[Tutor]David Resca:	JAJAJ
+03:04:19	Walter Martínez:	ha bueno
+03:04:19	Pedro Piccioni:	200!!!!!
+03:04:21	Pedro Piccioni:	jajaja
+03:04:24	Walter Martínez:	el alquiler
+03:04:26	[Tutor] Mauricio Fernandez:	200 pavos
+03:04:32	Gaston Guzman:	jajaj
+03:04:32	Luis Visintini:	create un onlyfans david
+03:04:33	Lautaro Almada:	Con armar 1 array constructor y los filtros se aprueba?
+03:04:33	Pedro Piccioni:	JAJAJAJAJA
+03:04:35	Luis Visintini:	deja de joder
+03:04:35	Carmela Ojea Sipowicz:	200 pesitos argentinos
+03:04:38	Pedro Piccioni:	200 pavos tiraba
+03:04:43	Miguel David Bayona:	200 bolivares
+03:04:47	diego sepulveda mendoza:	las pre-entregas, influyen para aprobar el curso?
+03:04:49	Iván Fuentes Araya:	pero facturame asi me devuelven el impuesto!
+03:04:53	[Tutor]David Resca:	only fans... mmm🤑
+03:05:02	Agustin Nazer:	cafecito app
+03:05:03	Alexander Sosa:	🤩
+03:05:15	[Tutor] Mauricio Fernandez:	sedesvirtuo
+03:05:16	[Tutor] Mauricio Fernandez:	jajaj
+03:05:22	Walter Martínez:	profe yo estoy en una nube, estoy haciendo una tribia de preguntas, y  me tengo que poner como aplicar todo a eso
+03:05:22	Lautaro Almada:	Excelente ahora entiendo muchas gracias
+03:05:23	Joel Miceli:	JAJAJAJA
+03:05:25	[Tutor]David Resca:	tranquis, cualquier cosa tienen coderAsk!
+03:05:28	diego sepulveda mendoza:	las pre-entregas, influyen para aprobar el curso?
+03:05:32	[Tutor]David Resca:	o nosotros con una demora
+03:05:34	Gaston Guzman:	dejamos la programación ? jajaja
+03:05:42	[Tutor]David Resca:	NO DEJEN NADA
+03:05:45	[Tutor]David Resca:	no se les ocurra
+03:05:49	diego sepulveda mendoza:	okkkkkkkk
+03:05:54	Iván Fuentes Araya:	que no caigan esas coronas reyes/reinas
+03:05:55	diego sepulveda mendoza:	se viene only fans
+03:05:55	Luis Visintini:	mi novia me pregunta desde cuando me gusta tanto el cafe, por los resumenes de la tarjeta
+03:05:58	Alexander Sosa:	Gracias Profe
+03:05:59	Nanci Mondragón Cruz:	como entendieron ustedes jajajaj
+03:06:03	[Tutor]David Resca:	claro, miren las clases 20 veces si es necesario
+03:06:05	Agustin Nazer:	y java script spuestamente es el lenguaje mas sencillo?
+03:06:08	Lautaro Almada:	El trabajo me esta matando
+03:06:08	[Tutor]David Resca:	hasta que se entienda
+03:06:10	Celeste Lopez:	gracias profe
+03:06:11	Lautaro Almada:	jajaj
+03:06:17	[Tutor] Mauricio Fernandez:	gracias chicos
+03:06:19	[Tutor] Mauricio Fernandez:	buenas clase
+03:06:19	Walter Martínez:	gracias profe, ya cenamos el desafio
+03:06:21	[Tutor]David Resca:	y hagan cosas sencillas, no se enrosquen
+03:06:25	[Tutor] Mauricio Fernandez:	buen finde
+03:06:31	Pedro Piccioni:	perfeito
+03:06:32	Nanci Mondragón Cruz:	cuantas entregas son ??
+03:06:36	Iván Fuentes Araya:	buen finde tiraba jajaj
+03:06:37	Maria Lorena Correa:	haría falta un repaso para el miércoles porque estoy medio perdida aun
+03:06:43	Maria Lorena Correa:	?
+03:06:44	Walter Martínez:	buen finde para todos , genios los tres
+03:06:47	Gaston Guzman:	es lunes mau jaja
+03:06:50	Juan José Pais:	buena clase, pero terminé con el bocho quemado =0
+03:06:51	Pedro Piccioni:	el finde empieza mañana sisi
+03:06:51	Agustin Nazer:	buen finde
+03:06:53	Joel Miceli:	Buenas noches a todos! buen finde!!!
+03:06:55	Iván Fuentes Araya:	jajajaja
+03:06:56	Nanci Mondragón Cruz:	gracias
+03:07:00	Nanci Mondragón Cruz:	hasta el miércoles
+03:07:00	[Tutor] Mauricio Fernandez:	jajajaj que genios
+03:07:01	Luis Visintini:	perdidaso
+03:07:05	José Imhoff:	podemos usar arrays como la listaproductos de hoy?
+03:07:06	Carlos Herrera:	jajaja
+03:07:07	Walter Martínez:	cierto
+03:07:07	Lautaro Almada:	Buenas noches !
+03:07:09	Nadia Santiago:	Buenas noches!
+03:07:09	Walter Martínez:	chaito
+03:07:11	Gaston Guzman:	buenas noches jaja nos vemos
+03:07:11	Alexander Sosa:	bye a todos
+03:07:11	[Tutor] Mauricio Fernandez:	los lunes se tira buen finde , es ley
+03:07:12	Pedro Piccioni:	buenas noches
+03:07:12	Nanci Mondragón Cruz:	buenazo
+03:07:13	Santiago Graffigna:	chau gente!
+03:07:13	[Tutor] Mauricio Fernandez:	saluditos
+03:07:14	Gaston Guzman:	suerte
