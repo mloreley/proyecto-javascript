@@ -1,4 +1,0 @@
-Teoria de objetos para js
-https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects
-
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/this
